@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(205, 255, 203);
+}
+h1{
+    color:rgb(4, 109, 0);
+    
+}
+#principal{
+    text-align:center;
+    background-color:green;
+    color: white;
+}
+.basico{
+     color:blue ;
+}
+.Avançado{
+color: red;
+}
+.Intermediario{
+    color: rgb(132, 134, 5);
+}
+h2{
+    color: rgb(73, 109, 71);
+}
+p{
+    text-align:left;
+    text-indent: 40px;
+}
